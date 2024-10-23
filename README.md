@@ -9,9 +9,7 @@
 MIS LENGUAJES 
 
 ![image](https://github.com/user-attachments/assets/2ff26193-7c11-4585-9227-70ebc03cc9c0)
-
 ![image](https://github.com/user-attachments/assets/e8e037b1-4f4c-45e0-9ca1-b11a802d5391)
-
 ![image](https://github.com/user-attachments/assets/83dabb95-fb8c-4fde-8645-41831e8d591c)
 
 BASE DE DATOS
@@ -21,7 +19,6 @@ BASE DE DATOS
 LIBRERIAS Y FRAMEWORK
 
 ![image](https://github.com/user-attachments/assets/7517b3bf-fa89-4260-88c9-165d86ec5e5c)
-
 ![image](https://github.com/user-attachments/assets/80acb21e-f5ea-487c-84b8-ca6cedb001e2)
 
 CONECTADO EN:
